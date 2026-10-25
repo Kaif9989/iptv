@@ -1,7 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://www.open-epg.com/files/india1.xml"
-#EXTINF:-1 tvg-id="CVREnglish.in@SD" tvg-name="CVR English" tvg-logo="https://i.imgur.com/k0WTQKi.png" group-title="English",CVR English
-#EXTGRP:English
-https://cdn.pishow.tv/ott/live/425/master.m3u8
 #EXTINF:-1 tvg-id="TVBRICSEnglish.in@SD" tvg-name="TV BRICS English" tvg-logo="https://i.imgur.com/8rKNuS6.png" group-title="English",TV BRICS English
 #EXTGRP:English
 https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8

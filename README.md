@@ -1,7 +1,7 @@
 # 🇮🇳 India IPTV Playlist
 
-**Auto-generated:** 2026-10-25 11:11 UTC  
-**Total channels:** 673
+**Auto-generated:** 2026-10-25 15:59 UTC  
+**Total channels:** 658
 
 ---
 
@@ -9,33 +9,33 @@
 
 | Playlist | Channels | File |
 |---|---|---|
-| All India | 673 | [india_iptv.m3u](output/india_iptv.m3u) |
+| All India | 658 | [india_iptv.m3u](output/india_iptv.m3u) |
 | Animation | 3 | [india_animation.m3u](output/india_animation.m3u) |
 | Business | 2 | [india_business.m3u](output/india_business.m3u) |
 | Comedy | 1 | [india_comedy.m3u](output/india_comedy.m3u) |
 | Culture | 5 | [india_culture.m3u](output/india_culture.m3u) |
-| Devotional | 25 | [india_devotional.m3u](output/india_devotional.m3u) |
+| Devotional | 26 | [india_devotional.m3u](output/india_devotional.m3u) |
 | Documentary | 3 | [india_documentary.m3u](output/india_documentary.m3u) |
-| Education | 5 | [india_education.m3u](output/india_education.m3u) |
-| English | 2 | [india_english.m3u](output/india_english.m3u) |
+| Education | 3 | [india_education.m3u](output/india_education.m3u) |
+| English | 1 | [india_english.m3u](output/india_english.m3u) |
 | Entertainment | 63 | [india_entertainment.m3u](output/india_entertainment.m3u) |
 | Family | 1 | [india_family.m3u](output/india_family.m3u) |
-| General | 78 | [india_general.m3u](output/india_general.m3u) |
-| Infotainment | 12 | [india_infotainment.m3u](output/india_infotainment.m3u) |
+| General | 74 | [india_general.m3u](output/india_general.m3u) |
+| Infotainment | 10 | [india_infotainment.m3u](output/india_infotainment.m3u) |
 | Kids | 10 | [india_kids.m3u](output/india_kids.m3u) |
-| Lifestyle | 3 | [india_lifestyle.m3u](output/india_lifestyle.m3u) |
+| Lifestyle | 4 | [india_lifestyle.m3u](output/india_lifestyle.m3u) |
 | Movies | 42 | [india_movies.m3u](output/india_movies.m3u) |
 | Music | 42 | [india_music.m3u](output/india_music.m3u) |
-| News | 198 | [india_news.m3u](output/india_news.m3u) |
-| Regional - Bengali | 24 | [india_regional_bengali.m3u](output/india_regional_bengali.m3u) |
+| News | 190 | [india_news.m3u](output/india_news.m3u) |
+| Regional - Bengali | 22 | [india_regional_bengali.m3u](output/india_regional_bengali.m3u) |
 | Regional - Bhojpuri | 5 | [india_regional_bhojpuri.m3u](output/india_regional_bhojpuri.m3u) |
 | Regional - Gujarati | 5 | [india_regional_gujarati.m3u](output/india_regional_gujarati.m3u) |
 | Regional - Kannada | 8 | [india_regional_kannada.m3u](output/india_regional_kannada.m3u) |
-| Regional - Malayalam | 12 | [india_regional_malayalam.m3u](output/india_regional_malayalam.m3u) |
+| Regional - Malayalam | 13 | [india_regional_malayalam.m3u](output/india_regional_malayalam.m3u) |
 | Regional - Marathi | 7 | [india_regional_marathi.m3u](output/india_regional_marathi.m3u) |
-| Regional - Punjabi | 16 | [india_regional_punjabi.m3u](output/india_regional_punjabi.m3u) |
-| Regional - Tamil | 15 | [india_regional_tamil.m3u](output/india_regional_tamil.m3u) |
-| Regional - Telugu | 17 | [india_regional_telugu.m3u](output/india_regional_telugu.m3u) |
+| Regional - Punjabi | 15 | [india_regional_punjabi.m3u](output/india_regional_punjabi.m3u) |
+| Regional - Tamil | 16 | [india_regional_tamil.m3u](output/india_regional_tamil.m3u) |
+| Regional - Telugu | 18 | [india_regional_telugu.m3u](output/india_regional_telugu.m3u) |
 | Religious | 56 | [india_religious.m3u](output/india_religious.m3u) |
 | Science | 1 | [india_science.m3u](output/india_science.m3u) |
 | Sports | 11 | [india_sports.m3u](output/india_sports.m3u) |
@@ -101,6 +101,7 @@ Add the same M3U URL. EPG URLs:
 - Aastha Telugu
 - Bhakthi TV
 - Bhakti Dhara
+- Bhakti Sagar
 - CVR OM Spiritual
 - Channel Divya
 - Divya Bhajan
@@ -125,15 +126,12 @@ Add the same M3U URL. EPG URLs:
 
 ### Education
 
-- BVG
-- DD Kisan
 - Gyandarshan
 - MediBizTV
 - Vyas Channel
 
 ### English
 
-- CVR English
 - TV BRICS English
 
 ### Entertainment
@@ -159,6 +157,7 @@ Add the same M3U URL. EPG URLs:
 - E 24
 - Epic Bharat
 - Epic Parivar
+- Friends TV
 - Gangaur TV
 - Hi Dost!
 - Jaihind TV
@@ -166,6 +165,7 @@ Add the same M3U URL. EPG URLs:
 - Lok Sabha TV
 - MH One Dil Se
 - MK Six
+- Mahaa Max
 - Mango (India)
 - Mango Mobile TV
 - Manoranjan Prime
@@ -178,13 +178,11 @@ Add the same M3U URL. EPG URLs:
 - Pasand TV
 - Pear TV
 - Pulari TV
-- Q TV
 - Sana TV
 - Shemaroo TV
 - Shemaroo Umang
 - Sony Entertainment Television
 - Sony Entertainment Television HD
-- Sony Pix HD
 - Sony SAB
 - Sooriyan TV
 - Spondon
@@ -215,7 +213,6 @@ Add the same M3U URL. EPG URLs:
 - Channel Y
 - DD Arun Prabha
 - DD Assam
-- DD Bihar
 - DD Chandana
 - DD Chhattisgarh
 - DD Goa
@@ -232,7 +229,6 @@ Add the same M3U URL. EPG URLs:
 - DD Saptagiri
 - DD Tripura
 - DD Urdu
-- DD Uttar Pradesh
 - DD Uttarakhand
 - DD Yadagiri
 - Dangal TV
@@ -248,13 +244,11 @@ Add the same M3U URL. EPG URLs:
 - Kaumudy TV
 - MH One
 - Makkal TV (576i)
-- Mei Alai TV
 - Metro TV
 - Metro TV (India)
 - Mh 1 Prime
 - Namdhari
 - Nandighosha TV
-- Network 10
 - Northeast Live
 - PUNJAB TV
 - Power TV
@@ -290,7 +284,6 @@ Add the same M3U URL. EPG URLs:
 ### Infotainment
 
 - Animal Planet (India)
-- Animal Planet (India) HD
 - Discovery Channel (India)
 - Discovery Channel (India) HD
 - Discovery Science
@@ -298,7 +291,6 @@ Add the same M3U URL. EPG URLs:
 - Food Food
 - History TV18 HD
 - Investigation Discovery (India)
-- TLC (India)
 - TLC (India) HD
 - Travelxp HD
 
@@ -318,13 +310,13 @@ Add the same M3U URL. EPG URLs:
 ### Lifestyle
 
 - Ayush TV
+- CVR Health
 - INFAST
 - Kappa TV
 
 ### Movies
 
 - Alankar TV
-- All Time Movies
 - Asianet Movies
 - B4U Kadak
 - B4U Movies
@@ -338,6 +330,7 @@ Add the same M3U URL. EPG URLs:
 - Goldmines Bollywood
 - India Talkies
 - Indywood TV
+- MH One Movies
 - Maha Movie
 - Mahua Play
 - Manoranjan Grand
@@ -373,10 +366,12 @@ Add the same M3U URL. EPG URLs:
 - 9X Jalwa
 - 9X Jhakaas
 - 9X Tashan
+- Aaryaa TV
 - B4U Music
 - Balle Balle
 - Balle Balle HD
 - Boogle Bollywood
+- Deewana HD
 - Dhool TV
 - Dhoom Music
 - Epic Music
@@ -390,11 +385,9 @@ Add the same M3U URL. EPG URLs:
 - NH BollyRaga
 - PTC Music
 - Pankh
-- Peppers TV
 - Public Music
 - Punjabi Music HD
 - Qello Concerts by Stingray
-- Sana Plus
 - Songdew TV
 - Stingray Classic Rock
 - Stingray DJAZZ
@@ -407,7 +400,7 @@ Add the same M3U URL. EPG URLs:
 - Vaanavil TV
 - YRF Music
 - YRF Music Nepal
-- Zingabad
+- ZB Music
 - Zoom (India)
 - Zoom (India) Nepal
 
@@ -418,7 +411,6 @@ Add the same M3U URL. EPG URLs:
 - 24 News
 - 4 SiDES TV
 - 4TV News
-- 9 Plus News
 - 99TV
 - ABP Asmita
 - ABP Ganga
@@ -427,6 +419,7 @@ Add the same M3U URL. EPG URLs:
 - AKD Calcutta News
 - ANB News
 - ATN Samachar
+- Aagaaz Times
 - Aaj Ki Khabar
 - Aaj Tak
 - Aaj Tak HD
@@ -434,34 +427,28 @@ Add the same M3U URL. EPG URLs:
 - Ashwaveega News 24x7
 - Asian News
 - Asianet News
-- Assam Talks
 - Awaaz India TV
 - BHI Channel
 - BIG TV
-- BRK News
 - BSTV (India)
 - Bharat AtoZ
 - Bharat Express
-- Bharat Samachar
 - Bharat Update
 - Bharat24
-- Big TV 24x7
 - CNBC Awaaz
 - CNBC Bajar
 - CNBC TV18
 - CNBC TV18 Prime HD
 - CNN News 18
 - CVR News
-- Cnews Bharat
 - DD News
 - DD News HD
-- Daily Post TV
 - ETV News
-- First India News
 - GS TV
 - GTC News
 - Global India
 - Global Punjab
+- Globe TV
 - Guarantee News
 - Gujarat First
 - HNN 24x7
@@ -480,17 +467,15 @@ Add the same M3U URL. EPG URLs:
 - India Today
 - India Voice
 - Jai Maharashtra
-- Janta TV
+- Janam TV
 - Jantantra TV
 - KBC News
-- KBP Times
 - Kadak
 - Kairali News
 - Kalinga TV
 - Kashish News
 - Khabar Fast
 - Khabrain Abhi Tak
-- Live Times
 - Living India News
 - Lokshahi News
 - Madhimugam TV
@@ -522,8 +507,8 @@ Add the same M3U URL. EPG URLs:
 - News Daily 24
 - News India 24x7
 - News Leader
+- News Live
 - News Live Bangla
-- News Marathi 24x7
 - News Nation
 - News Nation 81
 - News State MP & CHG
@@ -550,18 +535,17 @@ Add the same M3U URL. EPG URLs:
 - PTC News
 - Polimer News
 - Prag News
-- Prameya News7
 - Pratham Khabar 24x7
+- Pratidin Time
 - Prime News
 - Prime9 News
 - Pudhari News
 - Raj News Malayalam
 - Raj News Telugu
 - Republic Bangla
+- Republic Kannada
 - Republic TV
-- Rozana Spokesman
 - Sach Bedhadak
-- Sadhna News Madhya Pradesh/Chhattisgarh
 - Sadhna Plus News
 - Sahana News
 - Salaam TV
@@ -571,6 +555,7 @@ Add the same M3U URL. EPG URLs:
 - Sansad TV 2
 - Sansad TV 2 HD
 - Sathiyam TV
+- Sudarshan News
 - Suvarna News SD
 - Swadesh News
 - Swaraj Express SMBC
@@ -615,12 +600,10 @@ Add the same M3U URL. EPG URLs:
 ### Regional - Bengali
 
 - ABP Ananda
-- Aakaash Aath
 - Aamar Bangla
 - Akhon Kolkata
 - Ananda Barta
 - Bangla Jago
-- CTVN AKD Plus
 - DD Bangla
 - Enterr 10 Bangla
 - KTV Bangla
@@ -629,10 +612,10 @@ Add the same M3U URL. EPG URLs:
 - NK TV Bangla
 - Orange Bangla TV
 - Raatdin Bangla
+- Rupasi Bangla
 - Samay Kolkata
 - Sangeet Bangla
 - Sonar Bangla
-- Star Jalsha
 - Star Jalsha HD
 - U Bangla
 - Zee Bangla
@@ -671,6 +654,7 @@ Add the same M3U URL. EPG URLs:
 - Asianet HD
 - DD Malayalam
 - Harvest TV Keralam
+- Kairali Arabia
 - Kairali TV
 - Kairali We
 - Kerala Vision
@@ -706,7 +690,6 @@ Add the same M3U URL. EPG URLs:
 - PTC Simran
 - Punjabi Beats HD
 - Punjabi Hits
-- Punjabi Shorts
 - Punjabi TV
 - World Punjabi TV
 
@@ -724,6 +707,7 @@ Add the same M3U URL. EPG URLs:
 - Raj Musix Tamil
 - Raj TV
 - Tamil Janam
+- TamilVision-TV
 - Tamilan TV
 - WOW Kidz Tamil
 - Zee Tamil HD
@@ -739,6 +723,7 @@ Add the same M3U URL. EPG URLs:
 - ETV Josh
 - ETV Plus
 - HMTV (India)
+- NTV Telugu
 - PMC Telugu
 - Raj Musix Telugu
 - Sakshi TV
@@ -754,14 +739,13 @@ Add the same M3U URL. EPG URLs:
 - Aaseervatham TV
 - Adhyatm TV
 - Amrit Gurbani
-- Anand TV (India)
-- Anand Wari TV
 - Anandpur Live
 - Angel TV
 - Arputhar Yesu TV
-- Awakening TV
+- Bhagyam TV
 - Channel WIN
 - Chintpurni Live
+- Darshan 24
 - Dheeran TV
 - Dukhnivaran Patiala Live
 - FGN Channel
@@ -780,7 +764,6 @@ Add the same M3U URL. EPG URLs:
 - MH One Shraddha
 - Madha TV
 - Mangalmay TV
-- Mercy TV (India)
 - Nambikkai TV
 - Nanaksar Live
 - Nireekshana TV
@@ -795,6 +778,7 @@ Add the same M3U URL. EPG URLs:
 - Saang
 - Sairam TV
 - Salvation TV (India)
+- Sankara TV
 - Satsang TV
 - Satsang Web TV
 - Shalom
@@ -803,6 +787,7 @@ Add the same M3U URL. EPG URLs:
 - Sindh TV (India)
 - Soham TV
 - Subhavaartha TV
+- Valam TV Dayro
 - Vedic
 - Village TV
 - Zainabia Channel
@@ -816,11 +801,11 @@ Add the same M3U URL. EPG URLs:
 - DD Sports
 - DD Sports HD
 - Eurosport
+- Kabaddi 24x7
 - Sony Sports Ten 1
 - Sony Sports Ten 2
 - Sony Sports Ten 3 Hindi
 - Star Sports 2
-- Star Sports 2 Telugu HD
 - Star Sports Select 1 HD
 - Star Sports Select 2 HD
 - Ten Cricket

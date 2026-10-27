@@ -38,6 +38,12 @@ https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 #EXTINF:-1 tvg-id="OrangeBanglaTV.in@SD" tvg-name="Orange Bangla TV" tvg-logo="https://i.imgur.com/wjSaHj5.png" group-title="Regional - Bengali",Orange Bangla TV
 #EXTGRP:Regional - Bengali
 https://cdn.pishow.tv/ott/live/1499/master.m3u8
+#EXTINF:-1 tvg-id="RaatdinBangla.in@SD" tvg-name="Raatdin Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/raatdinbangla.png" group-title="Regional - Bengali",Raatdin Bangla
+#EXTGRP:Regional - Bengali
+https://server.playontv.in/raatdinbangla/index.m3u8
+#EXTINF:-1 tvg-id="RupasiBangla.in@SD" tvg-name="Rupasi Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s143733_ld_h15_aa.png?lock=720x540" group-title="Regional - Bengali",Rupasi Bangla
+#EXTGRP:Regional - Bengali
+https://cdn.pishow.tv/ott/live/1039/master.m3u8
 #EXTINF:-1 tvg-id="SamayKolkata.in@SD" tvg-name="Samay Kolkata" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Samay_Kolkata.png" group-title="Regional - Bengali",Samay Kolkata
 #EXTGRP:Regional - Bengali
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8

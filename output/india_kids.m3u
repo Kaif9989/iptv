@@ -1,10 +1,16 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://www.open-epg.com/files/india1.xml"
-#EXTINF:-1 tvg-id="Chithiram.in@SD" tvg-name="Chithiram" tvg-logo="https://i.imgur.com/xv9cWSh.png" group-title="Kids",Chithiram
+#EXTINF:-1 tvg-id="CartoonNetwork.in@SD" tvg-name="Cartoon Network (India)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network (India)
 #EXTGRP:Kids
-https://cdn.pishow.tv/ott/live/1243/master.m3u8
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in@SD" tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Kids",Discovery Kids
 #EXTGRP:Kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
+#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-name="Disney International HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney International HD
+#EXTGRP:Kids
+http://103.151.60.162:2122/play/a018/index.m3u8?hls
+#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-name="Disney Junior (India)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Disney Junior (India)
+#EXTGRP:Kids
+http://103.151.60.162:2122/play/a016/index.m3u8?hls
 #EXTINF:-1 tvg-id="EpicKids.in@Digital" tvg-name="Epic Kids Digital" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png" group-title="Kids",Epic Kids Digital
 #EXTGRP:Kids
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8

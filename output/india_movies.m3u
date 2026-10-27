@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="AlankarTV.in@SD" tvg-name="Alankar TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LOGO_HD/image.png" group-title="Movies",Alankar TV
 #EXTGRP:Movies
 https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-name="All Time Movies" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",All Time Movies
-#EXTGRP:Movies
-https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-name="Asianet Movies" tvg-logo="https://i.imgur.com/cps67hs.png" group-title="Movies",Asianet Movies
 #EXTGRP:Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
@@ -35,9 +32,6 @@ https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesAction.in@SD" tvg-name="Goldmines Action" tvg-logo="https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Action
 #EXTGRP:Movies
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-name="Goldmines Bollywood" tvg-logo="https://i.imgur.com/6mNQ9mM.png" group-title="Movies",Goldmines Bollywood
-#EXTGRP:Movies
-https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-id="IndiaTalkies.in@SD" tvg-name="India Talkies" tvg-logo="https://papaji.freetvindia.com/media/FreeTV_India_Talkies.png" group-title="Movies",India Talkies
 #EXTGRP:Movies
 https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8
@@ -86,9 +80,6 @@ https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="RajDigitalPlus.in@SD" tvg-name="Raj Digital Plus" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png" group-title="Movies",Raj Digital Plus
 #EXTGRP:Movies
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
-#EXTINF:-1 tvg-id="RojaMovies" tvg-name="Roja Movies" group-title="Movies",Roja Movies
-#EXTGRP:Movies
-https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-name="Shemaroo Josh" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="Movies",Shemaroo Josh
 #EXTGRP:Movies
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8

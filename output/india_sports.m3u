@@ -20,6 +20,9 @@ http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-name="Sony Sports Ten 3 Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sports",Sony Sports Ten 3 Hindi
 #EXTGRP:Sports
 http://103.151.60.162:2122/play/a01t/index.m3u8?hls
+#EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-name="Sony Sports Ten 5" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 5
+#EXTGRP:Sports
+http://103.151.60.162:2122/play/a028/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSports2.in@SD" tvg-name="Star Sports 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2
 #EXTGRP:Sports
 http://103.151.60.162:2122/play/a00v/index.m3u8?hls

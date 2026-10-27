@@ -8,3 +8,6 @@ https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
 #EXTINF:-1 tvg-id="INFAST.nl@SD" tvg-name="INFAST" tvg-logo="https://i.imgur.com/VwAMqA7.png" group-title="Lifestyle",INFAST
 #EXTGRP:Lifestyle
 https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="KappaTV.in@SD" tvg-name="Kappa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Lifestyle",Kappa TV
+#EXTGRP:Lifestyle
+https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8

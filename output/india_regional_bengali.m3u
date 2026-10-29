@@ -1,7 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://www.open-epg.com/files/india1.xml"
-#EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-name="Aamar Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="Regional - Bengali",Aamar Bangla
-#EXTGRP:Regional - Bengali
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ABPAnanda.in@SD" tvg-name="ABP Ananda" tvg-logo="https://dtil.tmsimg.com/assets/s142518_ld_h15_aa.png?lock=720x540" group-title="Regional - Bengali",ABP Ananda
 #EXTGRP:Regional - Bengali
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
@@ -17,9 +14,6 @@ https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD" tvg-name="CTVN AKD Plus" tvg-logo="https://dtil.tmsimg.com/assets/s142754_ld_h15_aa.png?lock=720x540" group-title="Regional - Bengali",CTVN AKD Plus
 #EXTGRP:Regional - Bengali
 https://live.legitpro.co.in/ctvnakdplus/index.m3u8
-#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-name="DD Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png?lock=720x540" group-title="Regional - Bengali",DD Bangla
-#EXTGRP:Regional - Bengali
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
 #EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" tvg-name="Enterr 10 Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="Regional - Bengali",Enterr 10 Bangla
 #EXTGRP:Regional - Bengali
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -38,15 +32,6 @@ https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 #EXTINF:-1 tvg-id="OrangeBanglaTV.in@SD" tvg-name="Orange Bangla TV" tvg-logo="https://i.imgur.com/wjSaHj5.png" group-title="Regional - Bengali",Orange Bangla TV
 #EXTGRP:Regional - Bengali
 https://cdn.pishow.tv/ott/live/1499/master.m3u8
-#EXTINF:-1 tvg-id="RaatdinBangla.in@SD" tvg-name="Raatdin Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/raatdinbangla.png" group-title="Regional - Bengali",Raatdin Bangla
-#EXTGRP:Regional - Bengali
-https://server.playontv.in/raatdinbangla/index.m3u8
-#EXTINF:-1 tvg-id="RupasiBangla.in@SD" tvg-name="Rupasi Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s143733_ld_h15_aa.png?lock=720x540" group-title="Regional - Bengali",Rupasi Bangla
-#EXTGRP:Regional - Bengali
-https://cdn.pishow.tv/ott/live/1039/master.m3u8
-#EXTINF:-1 tvg-id="SamayKolkata.in@SD" tvg-name="Samay Kolkata" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Samay_Kolkata.png" group-title="Regional - Bengali",Samay Kolkata
-#EXTGRP:Regional - Bengali
-https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 #EXTINF:-1 tvg-id="SangeetBangla.in@SD" tvg-name="Sangeet Bangla" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png" group-title="Regional - Bengali",Sangeet Bangla
 #EXTGRP:Regional - Bengali
 https://cdn.pishow.tv/ott/live/1143/master.m3u8

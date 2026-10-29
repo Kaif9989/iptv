@@ -26,12 +26,6 @@ https://cdn.pishow.tv/ott/live/453/master.m3u8
 #EXTINF:-1 tvg-id="ArputharYesuTV.in@SD" tvg-name="Arputhar Yesu TV" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" group-title="Religious",Arputhar Yesu TV
 #EXTGRP:Religious
 https://account33.livebox.co.in/jesushelpshls/live.m3u8
-#EXTINF:-1 tvg-id="AwakeningTV.in@SD" tvg-name="Awakening TV" tvg-logo="https://i.imgur.com/p26iWOi.png" group-title="Religious",Awakening TV
-#EXTGRP:Religious
-https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8
-#EXTINF:-1 tvg-id="BhagyamTV.in@SD" tvg-name="Bhagyam TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aanadhamtvtamil.png" group-title="Religious",Bhagyam TV
-#EXTGRP:Religious
-https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
 #EXTINF:-1 tvg-id="ChannelWIN.in@SD" tvg-name="Channel WIN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_WIN/images/LOGO_HD/image.png" group-title="Religious",Channel WIN
 #EXTGRP:Religious
 https://cdn.pishow.tv/ott/live/229/master.m3u8
@@ -86,6 +80,9 @@ https://cdn.pishow.tv/ott/live/989/master.m3u8
 #EXTINF:-1 tvg-id="JoyTV.in@SD" tvg-name="Joy TV" tvg-logo="https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png" group-title="Religious",Joy TV
 #EXTGRP:Religious
 https://ktismaservers.in:3412/live/joytvlive.m3u8
+#EXTINF:-1 tvg-id="LifeTV.in@SD" tvg-name="Life TV (India)" tvg-logo="https://i.ibb.co/v1C0bdR/logo-1.png" group-title="Religious",Life TV (India)
+#EXTGRP:Religious
+https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTINF:-1 tvg-id="MadhaTV.in@SD" tvg-name="Madha TV" tvg-logo="https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540" group-title="Religious",Madha TV
 #EXTGRP:Religious
 https://mumt07.tangotv.in/zHjX9OFlMADHATV/index.m3u8
@@ -95,9 +92,6 @@ https://livetv.mahotsavtv.com/mahotsavtv/playout/index.m3u8
 #EXTINF:-1 tvg-id="MangalmayTV.in@SD" tvg-name="Mangalmay TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mangalmaylive.png" group-title="Religious",Mangalmay TV
 #EXTGRP:Religious
 https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="MercyTV.in@SD" tvg-name="Mercy TV (India)" tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="Religious",Mercy TV (India)
-#EXTGRP:Religious
-https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 #EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-name="MH One Shraddha" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="Religious",MH One Shraddha
 #EXTGRP:Religious
 https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8
@@ -107,9 +101,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="NanaksarLive.in@SD" tvg-name="Nanaksar Live" tvg-logo="https://papaji.freetvindia.com/media/Nanasar_live.png" group-title="Religious",Nanaksar Live
 #EXTGRP:Religious
 https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="NireekshanaTV.in@SD" tvg-name="Nireekshana TV" tvg-logo="https://i.imgur.com/nGJv6QR.png" group-title="Religious",Nireekshana TV
-#EXTGRP:Religious
-https://cdn.pishow.tv/ott/live/965/master.m3u8
 #EXTINF:-1 tvg-id="PadharoSA.in@SD" tvg-name="Padharo SA" tvg-logo="https://papaji.freetvindia.com/media/padharosa.png" group-title="Religious",Padharo SA
 #EXTGRP:Religious
 https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8
@@ -173,12 +164,15 @@ https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playli
 #EXTINF:-1 tvg-id="SVBC4.in@SD" tvg-name="SVBC 4" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png" group-title="Religious",SVBC 4
 #EXTGRP:Religious
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SwastikTV.in@SD" tvg-name="Swastik TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/swastiktv.png" group-title="Religious",Swastik TV
-#EXTGRP:Religious
-https://server.playontv.in/swastiktv/index.m3u8
 #EXTINF:-1 tvg-id="ValamTV.in@SD" tvg-name="Valam TV" tvg-logo="https://papaji.freetvindia.com/media/channels/Valam_TV.png" group-title="Religious",Valam TV
 #EXTGRP:Religious
 http://cabletv.valamtv.in/hls/stream0.m3u8
+#EXTINF:-1 tvg-id="ValamTVDayro.in@SD" tvg-name="Valam TV Dayro" tvg-logo="https://papaji.freetvindia.com/media/channels/Valam_Dayro.png" group-title="Religious",Valam TV Dayro
+#EXTGRP:Religious
+https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
+#EXTINF:-1 tvg-id="Vedic.in@SD" tvg-name="Vedic" tvg-logo="https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540" group-title="Religious",Vedic
+#EXTGRP:Religious
+https://mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8
 #EXTINF:-1 tvg-id="VillageTV.in@SD" tvg-name="Village TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png" group-title="Religious",Village TV
 #EXTGRP:Religious
 https://live.villagetv.net/villagetv/hd/index.m3u8

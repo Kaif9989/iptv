@@ -50,6 +50,9 @@ https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in@SD" tvg-name="Isai Aruvi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png" group-title="Music",Isai Aruvi
 #EXTGRP:Music
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-id="KalikaTV.in@SD" tvg-name="Kalika TV" tvg-logo="https://i.imgur.com/XWXFoJA.png" group-title="Music",Kalika TV
+#EXTGRP:Music
+http://server.applelive.in/kalikatv/kalikatv.m3u8
 #EXTINF:-1 tvg-id="Mh1Music.in@SD" tvg-name="Mh 1 Music" tvg-logo="https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png?lock=720x540" group-title="Music",Mh 1 Music
 #EXTGRP:Music
 https://livestream.jswk.online/playlisttest/live/playlist.m3u8

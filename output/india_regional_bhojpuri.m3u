@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" tvg-name="B4U Bhojpuri" tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Regional - Bhojpuri",B4U Bhojpuri
 #EXTGRP:Regional - Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 tvg-id="B4UBhojpuri.in@Plus" tvg-name="B4U Bhojpuri Plus" tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Regional - Bhojpuri",B4U Bhojpuri Plus
+#EXTGRP:Regional - Bhojpuri
+https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-id="EpicBhojpuri.in@SD" tvg-name="Epic Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Regional - Bhojpuri",Epic Bhojpuri
 #EXTGRP:Regional - Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8

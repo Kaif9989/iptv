@@ -14,9 +14,6 @@ https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in@UK" tvg-name="GTC Punjabi UK" tvg-logo="https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg" group-title="Regional - Punjabi",GTC Punjabi UK
 #EXTGRP:Regional - Punjabi
 https://neotv.ottlive.co.in/gtcpunjabiuk/index.m3u8
-#EXTINF:-1 tvg-id="GTCPunjabi.in@US" tvg-name="GTC Punjabi US" tvg-logo="https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg" group-title="Regional - Punjabi",GTC Punjabi US
-#EXTGRP:Regional - Punjabi
-https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8
 #EXTINF:-1 tvg-id="PTCChakde.in@SD" tvg-name="PTC Chakde" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LOGO_HD/image.png" group-title="Regional - Punjabi",PTC Chakde
 #EXTGRP:Regional - Punjabi
 https://cdn.pishow.tv/ott/live/449/master.m3u8

@@ -8,9 +8,6 @@ https://stream.ottlive.co.in/nkrtv/index.m3u8
 #EXTINF:-1 tvg-id="PublicTV.in@SD" tvg-name="Public TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_TV/images/LOGO_HD/image.png" group-title="Regional - Kannada",Public TV
 #EXTGRP:Regional - Kannada
 https://cdn.pishow.tv/ott/live/439/master.m3u8
-#EXTINF:-1 tvg-id="RajMusixKannada.in@SD" tvg-name="Raj Musix Kannada" tvg-logo="https://i.imgur.com/z7fhhyX.png" group-title="Regional - Kannada",Raj Musix Kannada
-#EXTGRP:Regional - Kannada
-https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 #EXTINF:-1 tvg-id="SiriKannadaAllTime.in@SD" tvg-name="Siri Kannada All Time" tvg-logo="https://i.imgur.com/IR0BrEX.jpeg" group-title="Regional - Kannada",Siri Kannada All Time
 #EXTGRP:Regional - Kannada
 https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8

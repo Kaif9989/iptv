@@ -71,9 +71,6 @@ http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HarvestTV" tvg-name="Harvest TV" group-title="General",Harvest TV
 #EXTGRP:General
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="HSTV.in@SD" tvg-name="HSTV" tvg-logo="https://ibb.co/Ng5nkX6F" group-title="General",HSTV
-#EXTGRP:General
-https://live.castmaxcloud.com/live/hstv.m3u8
 #EXTINF:-1 tvg-id="IndiaTVAapKiAdalat" tvg-name="India TV Aap Ki Adalat" group-title="General",India TV Aap Ki Adalat
 #EXTGRP:General
 https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8?checkedby:iptvcat.com
@@ -89,15 +86,15 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="Jonack.in@SD" tvg-name="Jonack" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JONACK/images/LOGO_HD/image.png" group-title="General",Jonack
 #EXTGRP:General
 https://cdn.pishow.tv/ott/live/10006/master.m3u8
-#EXTINF:-1 tvg-id="KannurVision" tvg-name="Kannur Vision" group-title="General",Kannur Vision
-#EXTGRP:General
-https://stream.logichost.in/kannurvision/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="KaumudyTV.in@SD" tvg-name="Kaumudy TV" tvg-logo="https://dtil.tmsimg.com/assets/s143259_ld_h15_aa.png?lock=720x540" group-title="General",Kaumudy TV
 #EXTGRP:General
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MakkalTV.in@SD" tvg-name="Makkal TV (576i)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MAKKAL_TV/images/LOGO_HD/image.png" group-title="General",Makkal TV (576i)
 #EXTGRP:General
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MeiAlaiTV.in@SD" tvg-name="Mei Alai TV" tvg-logo="https://www.meialai.com/assets/meialai-DBaBUZTH.png" group-title="General",Mei Alai TV
+#EXTGRP:General
+https://meialai.iptelevishion.com/meialai/2/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV" tvg-name="Metro TV" group-title="General",Metro TV
 #EXTGRP:General
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8?checkedby:iptvcat.com
@@ -119,6 +116,9 @@ https://mumbai-edge.smartplaytv.in/Network10/index.m3u8
 #EXTINF:-1 tvg-id="NortheastLive" tvg-name="Northeast Live" group-title="General",Northeast Live
 #EXTGRP:General
 https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="NTCTV" tvg-name="NTC TV" group-title="General",NTC TV
+#EXTGRP:General
+https://galaxyott.live/hls/ntv.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="PowerTV" tvg-name="Power TV" group-title="General",Power TV
 #EXTGRP:General
 https://powertvkannada.com/hls/stream.m3u8?checkedby:iptvcat.com
@@ -146,9 +146,6 @@ https://cdn.pishow.tv/ott/live/1231/master.m3u8
 #EXTINF:-1 tvg-id="RaftaarMedia.in@SD" tvg-name="Raftaar Media" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA/images/LOGO_HD/image.png" group-title="General",Raftaar Media
 #EXTGRP:General
 https://mumt04.tangotv.in/m18aqlK4RAFTAARMEDIA/index.m3u8
-#EXTINF:-1 tvg-id="Ramdhenu.in@SD" tvg-name="Ramdhenu" tvg-logo="https://dtil.tmsimg.com/assets/s143717_ld_h15_aa.png?lock=720x540" group-title="General",Ramdhenu
-#EXTGRP:General
-https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/index.m3u8
 #EXTINF:-1 tvg-id="Rang.in@SD" tvg-name="Rang" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RANG/images/LOGO_HD/image.png" group-title="General",Rang
 #EXTGRP:General
 https://cdn.pishow.tv/ott/live/10017/master.m3u8
@@ -173,9 +170,6 @@ https://samacharplus.livebox.co.in/samacharplushls/live.m3u8?checkedby:iptvcat.c
 #EXTINF:-1 tvg-id="SantvaniChannel.in@SD" tvg-name="Santvani Channel" tvg-logo="https://dtil.tmsimg.com/assets/s143763_ld_h15_aa.png?lock=720x540" group-title="General",Santvani Channel
 #EXTGRP:General
 https://d1msejlow1t3l4.cloudfront.net/fta/santwani/playlist.m3u8
-#EXTINF:-1 tvg-id="SarvDharmSangam.in@SD" tvg-name="Sarv Dharm Sangam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SARV_DHARAM_SANGAM/images/LOGO_HD/image.png" group-title="General",Sarv Dharm Sangam
-#EXTGRP:General
-https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8
 #EXTINF:-1 tvg-id="SharnamTV.in@SD" tvg-name="Sharnam TV" tvg-logo="https://papaji.freetvindia.com/media/channels/SarnamTV.png" group-title="General",Sharnam TV
 #EXTGRP:General
 https://mumt06.tangotv.in/qYyB8fXVSHARNAMTV/index.m3u8
@@ -203,6 +197,9 @@ https://mumt04.tangotv.in/m18aqlK4TOTALTV/index.m3u8
 #EXTINF:-1 tvg-id="UTVPalakkad.in@SD" tvg-name="UTV Palakkad" tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="General",UTV Palakkad
 #EXTGRP:General
 https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Vision.in@SD" tvg-name="Vision (India)" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="General",Vision (India)
+#EXTGRP:General
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 tvg-id="VTU.in@SD" tvg-name="VTU" tvg-logo="https://i.imgur.com/zMwZRGJ.png" group-title="General",VTU
 #EXTGRP:General
 https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8

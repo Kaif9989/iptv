@@ -14,15 +14,15 @@ https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01
 #EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-name="9X Tashan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_TASHAN/images/LOGO_HD/image.png" group-title="Music",9X Tashan
 #EXTGRP:Music
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="AaryaaTV.in@SD" tvg-name="Aaryaa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Music",Aaryaa TV
-#EXTGRP:Music
-https://stream.ottlive.co.in/aryatvtamil/index.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Music",B4U Music
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music" tvg-logo="https://i.imgur.com/hytapio.png" group-title="Music",B4U Music
 #EXTGRP:Music
 https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
-#EXTINF:-1 tvg-id="BalleBalle" tvg-name="Balle Balle" group-title="Music",Balle Balle
+#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-name="Balle Balle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="Music",Balle Balle
 #EXTGRP:Music
-https://mcncdndigital.com/balleballetv/index.m3u8?checkedby:iptvcat.com
+https://mcncdndigital.com/worldpunjabitv/index.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in@HD" tvg-name="Balle Balle HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="Music",Balle Balle HD
+#EXTGRP:Music
+https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-id="BoogleBollywood.in@SD" tvg-name="Boogle Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="Music",Boogle Bollywood
 #EXTGRP:Music
 https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -53,9 +53,6 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="KalikaTV.in@SD" tvg-name="Kalika TV" tvg-logo="https://i.imgur.com/XWXFoJA.png" group-title="Music",Kalika TV
 #EXTGRP:Music
 http://server.applelive.in/kalikatv/kalikatv.m3u8
-#EXTINF:-1 tvg-id="Mh1Music.in@SD" tvg-name="Mh 1 Music" tvg-logo="https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png?lock=720x540" group-title="Music",Mh 1 Music
-#EXTGRP:Music
-https://livestream.jswk.online/playlisttest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-name="Music India" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" group-title="Music",Music India
 #EXTGRP:Music
 https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
@@ -119,6 +116,9 @@ https://stream.ottlive.co.in/utvtamil/index.m3u8
 #EXTINF:-1 tvg-id="VaanavilTV.in@SD" tvg-name="Vaanavil TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png" group-title="Music",Vaanavil TV
 #EXTGRP:Music
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="VisionBeats.in@SD" tvg-name="Vision Beats" tvg-logo="https://i.imgur.com/xx5RQdi.png" group-title="Music",Vision Beats
+#EXTGRP:Music
+http://a-edge.bliscdn.com/Visionbeats/index.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in@SD" tvg-name="YRF Music" tvg-logo="https://i.imgur.com/pKj3F4M.png" group-title="Music",YRF Music
 #EXTGRP:Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
@@ -128,9 +128,6 @@ https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
 #EXTINF:-1 tvg-id="ZBMusic.in@HD" tvg-name="ZB Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png" group-title="Music",ZB Music
 #EXTGRP:Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1 tvg-id="Zingabad.in@SD" tvg-name="Zingabad" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/zingabad.png" group-title="Music",Zingabad
-#EXTGRP:Music
-https://stream.ottlive.co.in/zingabad/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.in@SD" tvg-name="Zoom (India)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Music",Zoom (India)
 #EXTGRP:Music
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8

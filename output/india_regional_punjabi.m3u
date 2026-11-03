@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="ChardiklaGurbaaniTV.in@SD" tvg-name="Chardikla Gurbaani TV" tvg-logo="https://i.imgur.com/NXD8CPq.png" group-title="Regional - Punjabi",Chardikla Gurbaani TV
 #EXTGRP:Regional - Punjabi
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" tvg-name="Chardikla Time TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV/images/LOGO_HD/image.png" group-title="Regional - Punjabi",Chardikla Time TV
+#EXTGRP:Regional - Punjabi
+https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in@SD" tvg-name="Chardikla Time TV North America" tvg-logo="https://i.imgur.com/IUeMFey.jpg" group-title="Regional - Punjabi",Chardikla Time TV North America
 #EXTGRP:Regional - Punjabi
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8

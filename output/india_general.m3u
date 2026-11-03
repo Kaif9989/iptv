@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="5AABTV" tvg-name="5AAB TV" group-title="General",5AAB TV
 #EXTGRP:General
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="AMNTV.in@SD" tvg-name="AMN TV" tvg-logo="https://amntv.in/wp-content/uploads/2025/04/amntv-logo.png" group-title="General",AMN TV
+#EXTGRP:General
+https://live.onecloudlive.in/amn/amntv/index.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="General",Animax
 #EXTGRP:General
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8?checkedby:iptvcat.com
@@ -23,6 +26,9 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="DDArunPrabha" tvg-name="DD Arun Prabha" group-title="General",DD Arun Prabha
 #EXTGRP:General
 https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index_3.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="DDBihar.in@SD" tvg-name="DD Bihar" tvg-logo="https://i.imgur.com/C7KQiZI.png" group-title="General",DD Bihar
+#EXTGRP:General
+https://cdn.pishow.tv/ott/live/35/master.m3u8
 #EXTINF:-1 tvg-id="DDChandana.in@SD" tvg-name="DD Chandana" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LOGO_HD/image.png" group-title="General",DD Chandana
 #EXTGRP:General
 https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
@@ -41,6 +47,9 @@ https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8
 #EXTINF:-1 tvg-id="DDMeghalaya.in@SD" tvg-name="DD Meghalaya" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SHILLONG/images/LOGO_HD/image.png" group-title="General",DD Meghalaya
 #EXTGRP:General
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
+#EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-name="DD Odia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ORIYA/images/LOGO_HD/image.png" group-title="General",DD Odia
+#EXTGRP:General
+https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
 #EXTINF:-1 tvg-id="DDRajasthan.in@SD" tvg-name="DD Rajasthan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_RAJASTHAN/images/LOGO_HD/image.png" group-title="General",DD Rajasthan
 #EXTGRP:General
 https://cdn.pishow.tv/ott/live/34/master.m3u8
@@ -71,6 +80,9 @@ http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HarvestTV" tvg-name="Harvest TV" group-title="General",Harvest TV
 #EXTGRP:General
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="HSTV.in@SD" tvg-name="HSTV" tvg-logo="https://ibb.co/Ng5nkX6F" group-title="General",HSTV
+#EXTGRP:General
+https://live.castmaxcloud.com/live/hstv.m3u8
 #EXTINF:-1 tvg-id="IndiaTVAapKiAdalat" tvg-name="India TV Aap Ki Adalat" group-title="General",India TV Aap Ki Adalat
 #EXTGRP:General
 https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8?checkedby:iptvcat.com
@@ -116,9 +128,6 @@ https://mumbai-edge.smartplaytv.in/Network10/index.m3u8
 #EXTINF:-1 tvg-id="NortheastLive" tvg-name="Northeast Live" group-title="General",Northeast Live
 #EXTGRP:General
 https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="NTCTV" tvg-name="NTC TV" group-title="General",NTC TV
-#EXTGRP:General
-https://galaxyott.live/hls/ntv.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="PowerTV" tvg-name="Power TV" group-title="General",Power TV
 #EXTGRP:General
 https://powertvkannada.com/hls/stream.m3u8?checkedby:iptvcat.com
@@ -137,9 +146,6 @@ http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8?checkedby:iptvc
 #EXTINF:-1 tvg-id="PuthuyugamTV.in@SD" tvg-name="Puthuyugam TV" tvg-logo="https://dtil.tmsimg.com/assets/s143693_ld_h15_aa.png?lock=720x540" group-title="General",Puthuyugam TV
 #EXTGRP:General
 https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
-#EXTINF:-1 tvg-id="RPlus.in@SD" tvg-name="R Plus" tvg-logo="https://i.imgur.com/XUnWcZF.png" group-title="General",R Plus
-#EXTGRP:General
-https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-id="RPlusGold.in@SD" tvg-name="R Plus Gold" tvg-logo="https://i.imgur.com/dpI7XPC.png" group-title="General",R Plus Gold
 #EXTGRP:General
 https://cdn.pishow.tv/ott/live/1231/master.m3u8
@@ -161,6 +167,9 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 tvg-id="SADATV" tvg-name="SADA TV" group-title="General",SADA TV
 #EXTGRP:General
 http://cdn12.henico.net:8080/live/sadatv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="SaiTV.in@SD" tvg-name="Sai TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAI_TV/images/LOGO_HD/image.png" group-title="General",Sai TV
+#EXTGRP:General
+https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
 #EXTINF:-1 tvg-id="SalvationTV" tvg-name="Salvation TV" group-title="General",Salvation TV
 #EXTGRP:General
 https://ktismaservers.in:3902/live/salvationtvlive.m3u8?checkedby:iptvcat.com

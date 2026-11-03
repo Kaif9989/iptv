@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-name="6 TV Telugu" tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="Regional - Telugu",6 TV Telugu
 #EXTGRP:Regional - Telugu
 https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="ABNAndhraJyoti.in@SD" tvg-name="ABN Andhra Jyoti" tvg-logo="https://dtil.tmsimg.com/assets/s142517_ld_h15_aa.png?lock=720x540" group-title="Regional - Telugu",ABN Andhra Jyoti
+#EXTGRP:Regional - Telugu
+https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
 #EXTINF:-1 tvg-id="ABNTVIndia.us@SD" tvg-name="ABN TV India" tvg-logo="https://i.imgur.com/VcZn60X.png" group-title="Regional - Telugu",ABN TV India
 #EXTGRP:Regional - Telugu
 https://mediaserver.abnvideos.com/streams/abntvindia.m3u8

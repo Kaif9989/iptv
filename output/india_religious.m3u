@@ -92,9 +92,6 @@ https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 #EXTINF:-1 tvg-id="NambikkaiTV.in@SD" tvg-name="Nambikkai TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png" group-title="Religious",Nambikkai TV
 #EXTGRP:Religious
 https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8
-#EXTINF:-1 tvg-id="NanaksarLive.in@SD" tvg-name="Nanaksar Live" tvg-logo="https://papaji.freetvindia.com/media/Nanasar_live.png" group-title="Religious",Nanaksar Live
-#EXTGRP:Religious
-https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PadharoSA.in@SD" tvg-name="Padharo SA" tvg-logo="https://papaji.freetvindia.com/media/padharosa.png" group-title="Religious",Padharo SA
 #EXTGRP:Religious
 https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8
@@ -146,6 +143,9 @@ https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playli
 #EXTINF:-1 tvg-id="SVBC4.in@SD" tvg-name="SVBC 4" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png" group-title="Religious",SVBC 4
 #EXTGRP:Religious
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SwastikTV.in@SD" tvg-name="Swastik TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/swastiktv.png" group-title="Religious",Swastik TV
+#EXTGRP:Religious
+https://server.playontv.in/swastiktv/index.m3u8
 #EXTINF:-1 tvg-id="ValamTV.in@SD" tvg-name="Valam TV" tvg-logo="https://papaji.freetvindia.com/media/channels/Valam_TV.png" group-title="Religious",Valam TV
 #EXTGRP:Religious
 http://cabletv.valamtv.in/hls/stream0.m3u8

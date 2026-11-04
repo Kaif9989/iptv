@@ -47,6 +47,3 @@ https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="WahPunjabi.in@SD" tvg-name="Wah Punjabi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wah_Punjabi.png" group-title="Regional - Punjabi",Wah Punjabi
 #EXTGRP:Regional - Punjabi
 https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="WorldPunjabiTV.in@SD" tvg-name="World Punjabi TV" tvg-logo="https://papaji.freetvindia.com/media/World_Punjabi_TV.png" group-title="Regional - Punjabi",World Punjabi TV
-#EXTGRP:Regional - Punjabi
-https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8

@@ -35,9 +35,6 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="DarshanaTV.in@SD" tvg-name="Darshana TV" tvg-logo="https://dtil.tmsimg.com/assets/s142774_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Darshana TV
 #EXTGRP:Entertainment
 https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8
-#EXTINF:-1 tvg-id="DDNational.in@SD" tvg-name="DD National" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png" group-title="Entertainment",DD National
-#EXTGRP:Entertainment
-https://cdn.pishow.tv/ott/live/11/master.m3u8
 #EXTINF:-1 tvg-id="DDNational.in@HD" tvg-name="DD National HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png" group-title="Entertainment",DD National HD
 #EXTGRP:Entertainment
 https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
@@ -59,9 +56,6 @@ https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 #EXTINF:-1 tvg-id="HiDost.in@SD" tvg-name="Hi Dost!" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Entertainment",Hi Dost!
 #EXTGRP:Entertainment
 https://cdn.pishow.tv/ott/live/224/master.m3u8
-#EXTINF:-1 tvg-id="KCLTV.in@SD" tvg-name="KCL TV" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Entertainment",KCL TV
-#EXTGRP:Entertainment
-https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id="KCM.sg@India" tvg-name="KCM India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png" group-title="Entertainment",KCM India
 #EXTGRP:Entertainment
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
@@ -113,15 +107,21 @@ https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SanaTV.in@SD" tvg-name="Sana TV" tvg-logo="https://i.imgur.com/CR7DGBv.png" group-title="Entertainment",Sana TV
 #EXTGRP:Entertainment
 https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
+#EXTINF:-1 tvg-id="ShemarooTV.in@SD" tvg-name="Shemaroo TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="Entertainment",Shemaroo TV
+#EXTGRP:Entertainment
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShemarooUmang.in@SD" tvg-name="Shemaroo Umang" tvg-logo="https://dtil.tmsimg.com/assets/s143779_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Shemaroo Umang
 #EXTGRP:Entertainment
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-name="Sony Entertainment Television HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Entertainment Television HD
 #EXTGRP:Entertainment
 http://38.96.178.205/SONYHD/index.m3u8
-#EXTINF:-1 tvg-id="SooriyanTV.ca@SD" tvg-name="Sooriyan TV" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Entertainment",Sooriyan TV
+#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-name="Sony SAB" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Entertainment",Sony SAB
 #EXTGRP:Entertainment
-https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="SubinTV.in@SD" tvg-name="Subin TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png" group-title="Entertainment",Subin TV
+#EXTGRP:Entertainment
+https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTINF:-1 tvg-id="SuriyaTV.in@SD" tvg-name="Suriya TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png" group-title="Entertainment",Suriya TV
 #EXTGRP:Entertainment
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
@@ -146,6 +146,3 @@ https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-name="Zee TV HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee TV HD
 #EXTGRP:Entertainment
 http://41.205.93.154/ZEE-TV/index.m3u8
-#EXTINF:-1 tvg-id="ZodiakTV.in@SD" tvg-name="Zodiak TV" tvg-logo="https://i.imgur.com/gE166hZ.jpeg" group-title="Entertainment",Zodiak TV
-#EXTGRP:Entertainment
-https://ranacable.duckdns.org/ZodiakTv/index.m3u8

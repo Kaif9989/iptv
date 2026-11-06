@@ -13,19 +13,22 @@ https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="GTCPunjabi.in@SD" tvg-name="GTC Punjabi" tvg-logo="https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg" group-title="Regional - Punjabi",GTC Punjabi
 #EXTGRP:Regional - Punjabi
-https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
+https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in@UK" tvg-name="GTC Punjabi UK" tvg-logo="https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg" group-title="Regional - Punjabi",GTC Punjabi UK
 #EXTGRP:Regional - Punjabi
 https://neotv.ottlive.co.in/gtcpunjabiuk/index.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in@US" tvg-name="GTC Punjabi US" tvg-logo="https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg" group-title="Regional - Punjabi",GTC Punjabi US
 #EXTGRP:Regional - Punjabi
 https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8
+#EXTINF:-1 tvg-id="MahaPunjabi.in@SD" tvg-name="Maha Punjabi" tvg-logo="https://i.imgur.com/AWUcSb8.png" group-title="Regional - Punjabi",Maha Punjabi
+#EXTGRP:Regional - Punjabi
+https://cdn.pishow.tv/ott/live/1521/master.m3u8
 #EXTINF:-1 tvg-id="PTCChakde.in@SD" tvg-name="PTC Chakde" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LOGO_HD/image.png" group-title="Regional - Punjabi",PTC Chakde
 #EXTGRP:Regional - Punjabi
 https://cdn.pishow.tv/ott/live/449/master.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabi.in@SD" tvg-name="PTC Punjabi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png" group-title="Regional - Punjabi",PTC Punjabi
 #EXTGRP:Regional - Punjabi
-https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8
+https://cdn.pishow.tv/ott/live/1604/master.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in@SD" tvg-name="PTC Punjabi Gold" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png" group-title="Regional - Punjabi",PTC Punjabi Gold
 #EXTGRP:Regional - Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
@@ -34,13 +37,16 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 #EXTINF:-1 tvg-id="PTCSimran.in@SD" tvg-name="PTC Simran" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540" group-title="Regional - Punjabi",PTC Simran
 #EXTGRP:Regional - Punjabi
-https://streams.tangotv.in/PTCSIMRAN/ORIGIN/index.m3u8
+https://cdn.pishow.tv/ott/live/1503/master.m3u8
 #EXTINF:-1 tvg-id="PunjabiHits.in@SD" tvg-name="Punjabi Hits" tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540" group-title="Regional - Punjabi",Punjabi Hits
 #EXTGRP:Regional - Punjabi
-https://stream.ottlive.co.in/punjabihits/index.m3u8
+https://legitpro.co.in/punjabihits/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiTV.in@SD" tvg-name="Punjabi TV" tvg-logo="https://papaji.freetvindia.com/media/PunjabiTV.png" group-title="Regional - Punjabi",Punjabi TV
 #EXTGRP:Regional - Punjabi
 https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="WahPunjabi.in@SD" tvg-name="Wah Punjabi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wah_Punjabi.png" group-title="Regional - Punjabi",Wah Punjabi
 #EXTGRP:Regional - Punjabi
 https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="WorldPunjabiTV.in@SD" tvg-name="World Punjabi TV" tvg-logo="https://papaji.freetvindia.com/media/World_Punjabi_TV.png" group-title="Regional - Punjabi",World Punjabi TV
+#EXTGRP:Regional - Punjabi
+https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8

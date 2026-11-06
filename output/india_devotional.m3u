@@ -1,19 +1,16 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://www.open-epg.com/files/india1.xml"
-#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Devotional",Aastha
+#EXTINF:-1 tvg-id="Aastha.in@SD" tvg-name="Aastha" tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="Devotional",Aastha
 #EXTGRP:Devotional
-https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8?checkedby:iptvcat.com
+https://cdn.pishow.tv/ott/live/1454/master.m3u8
 #EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha Bhajan" group-title="Devotional",Aastha Bhajan
 #EXTGRP:Devotional
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AasthaGujarati.in@SD" tvg-name="Aastha Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="Devotional",Aastha Gujarati
-#EXTGRP:Devotional
-https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
 #EXTINF:-1 tvg-id="Aastha.in@HD" tvg-name="Aastha HD" tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="Devotional",Aastha HD
 #EXTGRP:Devotional
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 #EXTINF:-1 tvg-id="AasthaKannada.in@SD" tvg-name="Aastha Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540" group-title="Devotional",Aastha Kannada
 #EXTGRP:Devotional
-https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
+https://cdn.pishow.tv/ott/live/234/master.m3u8
 #EXTINF:-1 tvg-id="AasthaPrime1.in@SD" tvg-name="Aastha Prime 1" tvg-logo="https://i.imgur.com/LyWSMJS.png" group-title="Devotional",Aastha Prime 1
 #EXTGRP:Devotional
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
@@ -22,7 +19,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AasthaTelugu.in@SD" tvg-name="Aastha Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s158136_ld_h15_aa.png?lock=720x540" group-title="Devotional",Aastha Telugu
 #EXTGRP:Devotional
-https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8
+https://cdn.pishow.tv/ott/live/262/master.m3u8
 #EXTINF:-1 tvg-id="BhakthiTV.in@SD" tvg-name="Bhakthi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" group-title="Devotional",Bhakthi TV
 #EXTGRP:Devotional
 https://cdn.pishow.tv/ott/live/397/master.m3u8
@@ -35,15 +32,12 @@ https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
 #EXTINF:-1 tvg-id="ChannelDivya.in@SD" tvg-name="Channel Divya" tvg-logo="https://dtil.tmsimg.com/assets/s143010_ld_h15_aa.png?lock=720x540" group-title="Devotional",Channel Divya
 #EXTGRP:Devotional
 https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
-#EXTINF:-1 tvg-id="CVROMSpiritual.in@SD" tvg-name="CVR OM Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="Devotional",CVR OM Spiritual
-#EXTGRP:Devotional
-https://yuppnimrestreammum.akamaized.net/181224/smil:cvrom1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="DivyaBhajan.in@SD" tvg-name="Divya Bhajan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DivyaBhajan.png" group-title="Devotional",Divya Bhajan
 #EXTGRP:Devotional
 https://jmp2.uk/stvp-IN1600002IQ
 #EXTINF:-1 tvg-id="DivyavaniTV.in@SD" tvg-name="Divyavani TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="Devotional",Divyavani TV
 #EXTGRP:Devotional
-https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
+https://cdn.pishow.tv/ott/live/1624/master.m3u8
 #EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD" tvg-name="Ishwar Bhakti TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISHWAR_TV/images/LOGO_HD/image.png" group-title="Devotional",Ishwar Bhakti TV
 #EXTGRP:Devotional
 https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
@@ -56,21 +50,15 @@ https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
 #EXTINF:-1 tvg-id="OMTV.in@SD" tvg-name="OM TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" group-title="Devotional",OM TV
 #EXTGRP:Devotional
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
-#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" tvg-name="Peace of Mind TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEACE_OF_MIND/images/LOGO_HD/image.png" group-title="Devotional",Peace of Mind TV
+#EXTINF:-1 tvg-id="PeaceTVBangla.ae@SD" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/1ztVXUi.png" group-title="Devotional",Peace TV Bangla
 #EXTGRP:Devotional
-https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="PeaceTVBangla" tvg-name="Peace TV Bangla" group-title="Devotional",Peace TV Bangla
-#EXTGRP:Devotional
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8?checkedby:iptvcat.com
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-id="PeaceTVUrdu.ae@SD" tvg-name="Peace TV Urdu" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg" group-title="Devotional",Peace TV Urdu
 #EXTGRP:Devotional
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-id="Sadhna.in@SD" tvg-name="Sadhna" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SADHNA/images/LOGO_HD/image.png" group-title="Devotional",Sadhna
 #EXTGRP:Devotional
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SadhnaTV.in@SD" tvg-name="Sadhna TV" tvg-logo="https://dtil.tmsimg.com/assets/s143736_ld_h15_aa.png?lock=720x540" group-title="Devotional",Sadhna TV
-#EXTGRP:Devotional
-https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
 #EXTINF:-1 tvg-id="SanskarTV.in@SD" tvg-name="Sanskar TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSKAR/images/LOGO_HD/image.png" group-title="Devotional",Sanskar TV
 #EXTGRP:Devotional
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8

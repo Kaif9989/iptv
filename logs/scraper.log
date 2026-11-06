@@ -49214,3 +49214,85 @@ By category:
 2026-11-06 14:07:34,022 - INFO -   Family                       1
 2026-11-06 14:07:34,022 - INFO -   Weather                      1
 2026-11-06 14:07:34,022 - INFO - Done -> output/india_iptv.m3u
+2026-11-06 22:47:01,622 - INFO - Fetching iptv-org India playlist...
+2026-11-06 22:47:01,828 - INFO - iptv-org: 730 channels
+2026-11-06 22:47:01,828 - INFO - Scraping IPTVCat India...
+2026-11-06 22:47:02,969 - INFO -   page 1: 100 channels (100 new)
+2026-11-06 22:47:04,402 - INFO -   page 2: 100 channels (100 new)
+2026-11-06 22:47:05,835 - INFO -   page 3: 100 channels (100 new)
+2026-11-06 22:47:07,259 - INFO -   page 4: 100 channels (100 new)
+2026-11-06 22:47:08,866 - INFO -   page 5: 100 channels (100 new)
+2026-11-06 22:47:09,866 - INFO - Resolving real stream URLs for 453 IPTVCat channels...
+2026-11-06 22:47:37,614 - INFO - IPTVCat: 453 channels with a real stream URL
+2026-11-06 22:47:37,615 - INFO - 1183 candidate streams
+2026-11-06 22:47:37,615 - INFO - Checking 1183 streams (a few minutes)...
+2026-11-06 22:50:36,350 - INFO - 642/1183 streams are working
+2026-11-06 22:50:36,350 - INFO - Stability check on 642 streams (~70s per batch of 60)...
+2026-11-06 23:04:07,322 - INFO - 634/642 streams are still live after 70s
+2026-11-06 23:04:07,324 - INFO - No proxy configured - streams are used as-is.
+2026-11-06 23:04:07,331 - INFO - M3U saved: output/india_iptv.m3u (580 channels)
+2026-11-06 23:04:07,332 - INFO - M3U saved: output/india_news.m3u (179 channels)
+2026-11-06 23:04:07,332 - INFO - M3U saved: output/india_regional_telugu.m3u (18 channels)
+2026-11-06 23:04:07,332 - INFO - M3U saved: output/india_music.m3u (44 channels)
+2026-11-06 23:04:07,333 - INFO - M3U saved: output/india_religious.m3u (54 channels)
+2026-11-06 23:04:07,333 - INFO - M3U saved: output/india_regional_bengali.m3u (17 channels)
+2026-11-06 23:04:07,333 - INFO - M3U saved: output/india_devotional.m3u (23 channels)
+2026-11-06 23:04:07,334 - INFO - M3U saved: output/india_movies.m3u (28 channels)
+2026-11-06 23:04:07,334 - INFO - M3U saved: output/india_entertainment.m3u (42 channels)
+2026-11-06 23:04:07,335 - INFO - M3U saved: output/india_infotainment.m3u (11 channels)
+2026-11-06 23:04:07,335 - INFO - M3U saved: output/india_animation.m3u (3 channels)
+2026-11-06 23:04:07,335 - INFO - M3U saved: output/india_regional_malayalam.m3u (8 channels)
+2026-11-06 23:04:07,338 - INFO - M3U saved: output/india_general.m3u (70 channels)
+2026-11-06 23:04:07,338 - INFO - M3U saved: output/india_lifestyle.m3u (4 channels)
+2026-11-06 23:04:07,339 - INFO - M3U saved: output/india_regional_bhojpuri.m3u (3 channels)
+2026-11-06 23:04:07,339 - INFO - M3U saved: output/india_business.m3u (2 channels)
+2026-11-06 23:04:07,339 - INFO - M3U saved: output/india_education.m3u (5 channels)
+2026-11-06 23:04:07,339 - INFO - M3U saved: output/india_kids.m3u (7 channels)
+2026-11-06 23:04:07,340 - INFO - M3U saved: output/india_regional_punjabi.m3u (18 channels)
+2026-11-06 23:04:07,340 - INFO - M3U saved: output/india_regional_gujarati.m3u (3 channels)
+2026-11-06 23:04:07,340 - INFO - M3U saved: output/india_regional_kannada.m3u (5 channels)
+2026-11-06 23:04:07,340 - INFO - M3U saved: output/india_regional_marathi.m3u (5 channels)
+2026-11-06 23:04:07,341 - INFO - M3U saved: output/india_regional_tamil.m3u (13 channels)
+2026-11-06 23:04:07,341 - INFO - M3U saved: output/india_english.m3u (2 channels)
+2026-11-06 23:04:07,341 - INFO - M3U saved: output/india_culture.m3u (4 channels)
+2026-11-06 23:04:07,341 - INFO - M3U saved: output/india_sports.m3u (5 channels)
+2026-11-06 23:04:07,341 - INFO - M3U saved: output/india_documentary.m3u (3 channels)
+2026-11-06 23:04:07,342 - INFO - M3U saved: output/india_science.m3u (1 channels)
+2026-11-06 23:04:07,342 - INFO - M3U saved: output/india_comedy.m3u (1 channels)
+2026-11-06 23:04:07,342 - INFO - M3U saved: output/india_family.m3u (1 channels)
+2026-11-06 23:04:07,342 - INFO - M3U saved: output/india_weather.m3u (1 channels)
+2026-11-06 23:04:07,347 - INFO - JSON index saved: output/channels.json
+2026-11-06 23:04:07,348 - INFO - README saved: README.md
+2026-11-06 23:04:07,348 - INFO - ==================================================
+2026-11-06 23:04:07,348 - INFO - WORKING channels in playlist: 580
+2026-11-06 23:04:07,348 - INFO -   News                       179
+2026-11-06 23:04:07,348 - INFO -   General                     70
+2026-11-06 23:04:07,348 - INFO -   Religious                   54
+2026-11-06 23:04:07,348 - INFO -   Music                       44
+2026-11-06 23:04:07,348 - INFO -   Entertainment               42
+2026-11-06 23:04:07,348 - INFO -   Movies                      28
+2026-11-06 23:04:07,348 - INFO -   Devotional                  23
+2026-11-06 23:04:07,348 - INFO -   Regional - Telugu           18
+2026-11-06 23:04:07,348 - INFO -   Regional - Punjabi          18
+2026-11-06 23:04:07,348 - INFO -   Regional - Bengali          17
+2026-11-06 23:04:07,348 - INFO -   Regional - Tamil            13
+2026-11-06 23:04:07,348 - INFO -   Infotainment                11
+2026-11-06 23:04:07,348 - INFO -   Regional - Malayalam         8
+2026-11-06 23:04:07,348 - INFO -   Kids                         7
+2026-11-06 23:04:07,348 - INFO -   Education                    5
+2026-11-06 23:04:07,348 - INFO -   Regional - Kannada           5
+2026-11-06 23:04:07,348 - INFO -   Regional - Marathi           5
+2026-11-06 23:04:07,348 - INFO -   Sports                       5
+2026-11-06 23:04:07,348 - INFO -   Lifestyle                    4
+2026-11-06 23:04:07,348 - INFO -   Culture                      4
+2026-11-06 23:04:07,348 - INFO -   Animation                    3
+2026-11-06 23:04:07,348 - INFO -   Regional - Bhojpuri          3
+2026-11-06 23:04:07,348 - INFO -   Regional - Gujarati          3
+2026-11-06 23:04:07,348 - INFO -   Documentary                  3
+2026-11-06 23:04:07,348 - INFO -   Business                     2
+2026-11-06 23:04:07,349 - INFO -   English                      2
+2026-11-06 23:04:07,349 - INFO -   Science                      1
+2026-11-06 23:04:07,349 - INFO -   Comedy                       1
+2026-11-06 23:04:07,349 - INFO -   Family                       1
+2026-11-06 23:04:07,349 - INFO -   Weather                      1
+2026-11-06 23:04:07,349 - INFO - Done -> output/india_iptv.m3u

@@ -23,3 +23,6 @@ https://cdn.pishow.tv/ott/live/1073/master.m3u8
 #EXTINF:-1 tvg-id="ReporterTV.in@SD" tvg-name="Reporter TV" tvg-logo="https://dtil.tmsimg.com/assets/s85096_ld_h15_aa.png?lock=720x540" group-title="Regional - Malayalam",Reporter TV
 #EXTGRP:Regional - Malayalam
 https://cdn.pishow.tv/ott/live/1510/master.m3u8
+#EXTINF:-1 tvg-id="SuryaSamachar.in@SD" tvg-name="Surya Samachar" tvg-logo="https://i.imgur.com/vxs1kRB.png" group-title="Regional - Malayalam",Surya Samachar
+#EXTGRP:Regional - Malayalam
+https://d1msejlow1t3l4.cloudfront.net/fta/suryasamachar/playlist.m3u8
